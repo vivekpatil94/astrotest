@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "384832844391",
+    "project_id": "mauhurtika-test",
+    "storage_bucket": "mauhurtika-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384832844391:android:e46c13201088cb964edac2",
+        "android_client_info": {
+          "package_name": "com.medhaavi.astrology"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIhRIBTp0az3_oJlAtOajPmVy1_X7FwZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
